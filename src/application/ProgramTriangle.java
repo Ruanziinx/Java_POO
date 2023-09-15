@@ -4,7 +4,7 @@ import entities.Triangle;
 
 import java.util.Scanner;
 
-public class Program {
+public class ProgramTriangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
